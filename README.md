@@ -2,7 +2,7 @@ Hey, we are team Byte-Karma.
 
 Project- mediGO
 
-Team Members: 1. Palveet Kaur Saluja(Team Leader)
+Team Members: 1. Palveet Kaur Saluja
               2. Mrinmoy Paul
               3. Prachi Jain
               4. Shreyas Gawade
